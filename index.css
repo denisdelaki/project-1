@@ -1,4 +1,8 @@
 .html, .css{
     border-bottom: 3px solid black;
   }
+  .font{
+      font-family: sans-serif;
+      display: flex;
+  }
   
